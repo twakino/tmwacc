@@ -167,6 +167,18 @@
   },
   "active": "2a600c2e936888bb",
   "lastOpenFiles": [
+    "site/search/search_index.json",
+    "site/search",
+    "site/2025-10-22 持続可能な成長を設計する/index.html",
+    "site/2025-10-22 持続可能な成長を設計する",
+    "site/index.html",
+    "site/404.html",
+    "site/assets/javascripts/lunr/min/lunr.zh.min.js",
+    "site/assets/javascripts/lunr/min/lunr.vi.min.js",
+    "site/assets/javascripts/lunr/min/lunr.tr.min.js",
+    "site/assets/javascripts/lunr/min/lunr.th.min.js",
+    "site/assets/javascripts/lunr/min/lunr.te.min.js",
+    "site/assets/images/favicon.png",
     "docs/2025-10-22 持続可能な成長を設計する.md",
     "docs/2025-10-22 持続可能な成長を設計する──攻めと守りの構造化を通じて考えていること.md",
     "無題のファイル.canvas",
@@ -174,16 +186,11 @@
     "無題のファイル.md",
     "docs/2025-10-22 copy.md",
     "docs/2025/2025-10-22.md",
-    "docs/2025",
     "2025/2025-10-22.md",
-    "2025",
     "2025-10-22.md",
-    "無題のフォルダ",
     "README.md",
     "docs/index.md",
     "index.md",
-    "mkdocs.yml",
-    "Welcome.md",
-    "daily"
+    "Welcome.md"
   ]
 }
