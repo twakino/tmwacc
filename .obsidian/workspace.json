@@ -1,0 +1,189 @@
+{
+  "main": {
+    "id": "b57b0d9098bdb488",
+    "type": "split",
+    "children": [
+      {
+        "id": "d6d42ae71744e8af",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2a600c2e936888bb",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "グラフビュー"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f50420b7ae03c633",
+    "type": "split",
+    "children": [
+      {
+        "id": "9bcfc7331edf56b7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "310f4c34ea52ccde",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "ファイルエクスプローラ"
+            }
+          },
+          {
+            "id": "8a4558e5a664db86",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "検索"
+            }
+          },
+          {
+            "id": "df6f6fec2261b6a9",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "ブックマーク"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "0502d684848fd785",
+    "type": "split",
+    "children": [
+      {
+        "id": "bc9aaf744344910b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "85ff12fa2f5fe4c0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "index.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "indexへのバックリンク"
+            }
+          },
+          {
+            "id": "beb0921c986ff997",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "index.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "indexからのアウトゴーイングリンク"
+            }
+          },
+          {
+            "id": "c6f57aff41b28d63",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "タグ"
+            }
+          },
+          {
+            "id": "978233522a5ec9be",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "index.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "indexのアウトライン"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:クイックスイッチャーを開く": false,
+      "graph:グラフビューを開く": false,
+      "canvas:新規キャンバスを作成": false,
+      "daily-notes:今日のデイリーノートを開く": false,
+      "templates:テンプレートを挿入": false,
+      "command-palette:コマンドパレットを開く": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "2a600c2e936888bb",
+  "lastOpenFiles": [
+    "docs/2025-10-22 持続可能な成長を設計する.md",
+    "docs/2025-10-22 持続可能な成長を設計する──攻めと守りの構造化を通じて考えていること.md",
+    "無題のファイル.canvas",
+    "docs/2025-10-22.md",
+    "無題のファイル.md",
+    "docs/2025-10-22 copy.md",
+    "docs/2025/2025-10-22.md",
+    "docs/2025",
+    "2025/2025-10-22.md",
+    "2025",
+    "2025-10-22.md",
+    "無題のフォルダ",
+    "README.md",
+    "docs/index.md",
+    "index.md",
+    "mkdocs.yml",
+    "Welcome.md",
+    "daily"
+  ]
+}

@@ -1,0 +1,17 @@
+site_name: twakino
+theme:
+  name: material
+  language: ja
+nav:
+  #- Home: index.md
+  - Logs: 
+      - 2025: 
+          - 2025-10-22 持続可能な成長を設計する.md
+markdown_extensions:
+  - toc
+  - footnotes
+  - admonition
+extra:
+  analytics:
+    provider: google
+    property: G-XXXXXXXXXX
